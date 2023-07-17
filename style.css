@@ -394,7 +394,7 @@ font-size: 50px;
 /* feedback  */
 .fform{
     color: white;
-
+    
 }
 .fbutton{
     border-radius: 20px;
@@ -419,3 +419,16 @@ height: 50px;
 .fmain1{
     height: 700px;
 }
+/* franchise css */
+.franchiseformmain{
+    /* display: flex;
+ justify-content: center;
+ display: inline;    */
+}
+.franchisefmain2{
+/* margin-left: 100px; */
+display: flex;
+justify-content: center;
+}
+
+
